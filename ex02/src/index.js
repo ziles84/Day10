@@ -8,10 +8,10 @@ var myClothes = {
 
 function myFunction(myObj) {
   var hatValue = myClothes.hat;
-  var shirtsValue = myClothes.shirt;
+  var shirtValue = myClothes.shirt;
   var shoesValue = myClothes.shoes;
 
-  return {hatValue, shirtsValue, shoesValue};
+  return {hatValue, shirtValue, shoesValue};
 }
 
 

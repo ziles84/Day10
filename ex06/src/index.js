@@ -16,4 +16,4 @@ myFunction("roar", "roar-roar");
 console.log(myFunction("roar", "roar-roar"));
 
 
-module.exporrts = myFunction;
+module.exports = myFunction;

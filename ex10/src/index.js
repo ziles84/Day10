@@ -21,12 +21,14 @@ function myFunction() {
         2: "Disk",
         3: "Ploca"
       },
-      gold: false
-    },
-  };
-}
+      gold: true
+    }
+  }
+
+  return myMusic;
+};
 
 
 myFunction()[2];
 
-module.exporrts = myFunction;
+module.exports = myFunction;
